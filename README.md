@@ -16,10 +16,10 @@ It uses OPEN WEATHER API to get different parameters of weather and display them
 
 ## Screenshots
 
-![App Screenshot](https://github.com/flashingCards/weatherApp/blob/main/screenshot/Screenshot01.png)
+![App Screenshot](https://github.com/flashingCards/weatherApp/blob/main/screenshots/Screenshot01.png)
 
-![App Screenshot](https://github.com/flashingCards/weatherApp/blob/main/screenshot/Screenshot02.png)
+![App Screenshot](https://github.com/flashingCards/weatherApp/blob/main/screenshots/Screenshot03.png)
 
-![App Screenshot](https://github.com/flashingCards/weatherApp/blob/main/screenshot/Screenshot03.png)
+![App Screenshot](https://github.com/flashingCards/weatherApp/blob/main/screenshots/Screenshot02.png)
 
 
