@@ -8,6 +8,7 @@ It uses OPEN WEATHER API to get different parameters of weather and display them
 
 
 
+# Deployed link
 
 [weatherApp](https://flashingcards.github.io/weatherApp/)
  
